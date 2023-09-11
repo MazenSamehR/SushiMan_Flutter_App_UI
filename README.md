@@ -1,8 +1,12 @@
-# udemy
+# SushiMan
 
 A new Flutter project.
 
-## Getting Started
+## ScreenShots
+<img src = "Screenshot 2023-09-11 170328.png">
+<img src = "Screenshot 2023-09-11 170405.png">
+<img src = "Screenshot 2023-09-11 170438.png">
+<img src = "Screenshot 2023-09-11 170516.png">
 
 This project is a starting point for a Flutter application.
 
